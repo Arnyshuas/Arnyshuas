@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arnyshuas
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning Html ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Html 
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me arnyshuascott@gmail.cm
 
 <!---
 Arnyshuas/Arnyshuas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
